@@ -1,0 +1,8 @@
+Votre personnage est-il blond ?
+Votre personnage est-il une femme 
+Votre personnage est-il un acteur ?
+Votre personnage est-il un enfant ?
+Votre personnage est-il fictif ?
+Votre personnage fait-il de la politique ?
+Connaissez-vous votre personnage personellement ?
+Votre personnage est-il une star de Twitch ?
